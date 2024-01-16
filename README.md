@@ -11,12 +11,19 @@ Due to the advances in technology, especially deep learning, which is capable of
 
 |  | Deepfake | Real |
 |----------|----------|----------|
-| Training (c23)  | 13020 | 12950 |
-| Validation (c23) | 2790 | 2775 |
+| Training (c23)  | 5104 | 7251 |
+| Validation (c23) | 2846 | 4260 |
 | Testing (c23) | 2790 | 2775 |
 | Testing (c40) | 1800 | 1800 |
 
 ### With Augmentation
+
+|  | Deepfake | Real |
+|----------|----------|----------|
+| Training (c23)  | 14648 | 15504 |
+| Validation (c23) | 2846 | 4260 |
+| Testing (c23) | 2790 | 2775 |
+| Testing (c40) | 1800 | 1800 |
 
 [Data Set without augmentation Download link](https://e.pcloud.link/publink/show?code=XZnsxkZkEAgI1OgQIJHLnNl9ErhV4vpHuV0)
 
