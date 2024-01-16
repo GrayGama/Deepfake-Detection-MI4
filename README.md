@@ -6,8 +6,11 @@ Due to the advances in technology, especially deep learning, which is capable of
 
 ![figures/Comparison.png](figures/Comparison.png)
 
-## Models Illustration (Meso4 and MesoInception4)
+## Models Illustration 
+### Meso 4
 ![figures/Meso4.png](figures/Meso4.png)
+
+### MesoInception 4
 ![figures/MesoInception4.png](figures/MesoInception4.png)
 
 ## Dataset:
