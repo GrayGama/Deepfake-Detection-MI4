@@ -40,4 +40,5 @@ Due to the advances in technology, especially deep learning, which is capable of
 3. Keras
 4. Matplotlib
 5. PIL
+6. Albumentation (For Data Augmentation only)
 
