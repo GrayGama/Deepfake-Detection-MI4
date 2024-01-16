@@ -9,6 +9,13 @@ Due to the advances in technology, especially deep learning, which is capable of
 ## Dataset:
 ### No Augmentation
 
+|  | Deepfake | Real |
+|----------|----------|----------|
+| Training (c23)  | 13020 | 12950 |
+| Validation (c23) | 2790 | 2775 |
+| Testing (c23) | 2790 | 2775 |
+| Testing (c40) | 1800 | 1800 |
+
 ### With Augmentation
 
 [Data Set without augmentation Download link](https://e.pcloud.link/publink/show?code=XZnsxkZkEAgI1OgQIJHLnNl9ErhV4vpHuV0)
