@@ -11,7 +11,7 @@ Due to the advances in technology, especially deep learning, which is capable of
 
 ### With Augmentation
 
-![Data Set without augmentation link](https://e.pcloud.link/publink/show?code=XZnsxkZkEAgI1OgQIJHLnNl9ErhV4vpHuV0)
+[Data Set without augmentation Download link](https://e.pcloud.link/publink/show?code=XZnsxkZkEAgI1OgQIJHLnNl9ErhV4vpHuV0)
 
 ## Requirements:
 1. Python > 3.5
